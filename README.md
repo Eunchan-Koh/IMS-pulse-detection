@@ -3,5 +3,5 @@ created C++ algorithm based on ims algorithm('Incremental Merge Segmentation'). 
 
 
 reference:<br />
-https://ppg-beats.readthedocs.io/en/stable/functions/ims_beat_detector/
+https://ppg-beats.readthedocs.io/en/stable/functions/ims_beat_detector/ <br />
 https://ieeexplore.ieee.org/document/6346628
